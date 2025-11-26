@@ -21,10 +21,9 @@ It provides user management, authentication, product listings, order processing,
 
 - Language: Kotlin  
 - Framework: Spring Boot  
-- Dependencies: Spring Web, Spring Data JPA, Spring Validation, Security (if applicable)  
-- Database: (Specify the one you are using: PostgreSQL, MySQL, H2, etc.)  
+- Dependencies: Spring Web, Spring Data JPA, Spring Validation
 - Build Tool: Gradle  
-- Testing: JUnit (if applicable)
+- Testing: JUnit 
 
 ## Project Structure
 
@@ -43,20 +42,4 @@ src/
           └── data.sql (optional)
 ```
 
-
-## Getting Started
-
-### Prerequisites
-
-- JDK 17 or later  
-- Gradle  
-
-## API Endpoints (Example)
-
-| Method | Endpoint       | Description            |
-|--------|----------------|------------------------|
-| GET    | /products      | Get all products       |
-| POST   | /auth/register | Register new user      |
-| POST   | /auth/login    | User login             |
-| POST   | /orders        | Create a new order     |
 
