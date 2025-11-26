@@ -1,0 +1,35 @@
+[
+  {
+    "id": 22,
+    "nombre": "Leche",
+    "costo": 200.5,
+    "grupo": "LACTEOS",
+    "origenAnimal": true
+  },
+  {
+    "nombre": "Arroz",
+    "costo": 100.5,
+    "grupo": "CEREALES_Y_TUBERCULOS",
+    "origenAnimal": false
+  },
+  {
+    "id": 3,
+    "nombre": "Azúcar",
+    "costo": 200.0,
+    "grupo": "AZUCARES_Y_DULCES",
+    "origenAnimal": false
+  },
+  {
+    "nombre": "Pollo",
+    "costo": 400.5,
+    "grupo": "PROTEINAS",
+    "origenAnimal": true
+  },
+  {
+    "id": 57,
+    "nombre": "Manzana",
+    "costo": 100.0,
+    "grupo": "FRUTAS_Y_VERDURAS",
+    "origenAnimal": false
+  }
+]

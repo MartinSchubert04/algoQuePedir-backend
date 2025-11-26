@@ -1,0 +1,9 @@
+server:
+  port: 9000
+  error:
+    whitelabel:
+      enabled: false
+    include-message: always
+
+dev-endpoints:
+  enabled: true
