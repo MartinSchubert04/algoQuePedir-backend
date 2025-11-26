@@ -50,24 +50,6 @@ src/
 
 - JDK 17 or later  
 - Gradle  
-- A running instance of your database (if not using H2)
-
-### Running the Project
-
-```bs
-src/
- └── main/
-     ├── kotlin/
-     │    └── com.algoquepedir
-     │         ├── controller/     # REST controllers
-     │         ├── service/        # Business logic
-     │         ├── repository/     # Data access layer
-     │         ├── model/          # Entities and DTOs
-     │         └── AlgoQuePedirApplication.kt
-     └── resources/
-          ├── application.properties
-          └── data.sql (optional)
-```
 
 ## API Endpoints (Example)
 
