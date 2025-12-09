@@ -6,7 +6,9 @@
 ### Related repos
 The client-side view is [here](https://github.com/MartinSchubert04/algoQuePedir-client) and the business-side view is [here](https://github.com/MartinSchubert04/algoQuePedir-business)
 
-A backend application built with Kotlin and Spring Boot, designed to support the AlgoQuePedir food ordering platform.
+## Project Description
+
+This is a backend application built with Kotlin and Spring Boot, designed to support the AlgoQuePedir food ordering platform.
 It provides user management, authentication, product listings, order processing, and integration with the frontend client.
 
 ## Features
