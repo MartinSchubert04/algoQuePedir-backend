@@ -3,6 +3,9 @@
 [![master build](https://github.com/algo3-unsam/algo-que-pedir-backend-2025-grupo9/actions/workflows/build.yml/badge.svg)](https://github.com/algo2-unsam/tp-algo-que-pedir-grupo13/actions/workflows/build.yml)
 [![codecov](https://github.com/algo3-unsam/algo-que-pedir-backend-2025-grupo9/blob/main/.github/badges/jacoco.svg)](https://github.com/algo3-unsam/algo-que-pedir-backend-2025-grupo9/blob/main/.github/badges/jacoco.svg)
 
+### Related repos
+The client-side view is [here](https://github.com/MartinSchubert04/algoQuePedir-client) and the business-side view is [here](https://github.com/MartinSchubert04/algoQuePedir-business)
+
 A backend application built with Kotlin and Spring Boot, designed to support the AlgoQuePedir food ordering platform.
 It provides user management, authentication, product listings, order processing, and integration with the frontend client.
 
